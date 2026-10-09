@@ -1,0 +1,3 @@
+#figure out how lines work
+finger positioning is getting there... play around...
+watch tutorial?

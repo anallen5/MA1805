@@ -1,24 +1,19 @@
 function setup() {
-  createCanvas(640, 480);
-  background(230);
+  createCanvas(500, 500);
+  background(255, 30, 255);
   //noStroke();
 }
 
 function draw() {
-  fill(0);
-  rect(0, 0, 100, 100); // x, y, w, h
+strokeWeight(2);
+fill (250, 246, 75);
+circle(250, 250, 350);
 
-  fill (64);
-  rect (50, 50, 100, 100);
+strokeWeight(4);
+line (200, 250, 300, 250);
 
-  fill(128);
-  rect(100, 100, 100, 100);
-
-  fill(196);
-  rect(150, 150, 200, 200);
-
-  stroke(0, 0, 55)
-  strokeWeight(5)
-  fill(220);
-  rect(300, 300, 400, 400);
+strokeWeight(2);
+ellipse(220, 360, 30, 100);
+ellipse(230, 360, 30, 100);
+ellipse(240, 360, 27, 90);
 }
