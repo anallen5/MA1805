@@ -17,8 +17,8 @@ function draw() {
   fill(196);
   rect(150, 150, 200, 200);
 
-  stroke(0, 0, 40)
-  strokeWeight(10)
+  stroke(0, 0, 55)
+  strokeWeight(5)
   fill(220);
   rect(300, 300, 400, 400);
 }
