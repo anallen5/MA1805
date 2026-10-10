@@ -16,9 +16,16 @@ line (260, 200, 310, 200);
 
 //x, y, width, height, detail
 strokeWeight(2);
-ellipse(170, 360, 20, 200);
-ellipse(180, 360, 20, 200);
-ellipse(190, 360, 20, 200);
+ellipse(240, 360, 20, 200);
+ellipse(230, 360, 20, 195);
+ellipse(220, 370, 20, 170);
 
-ellipse (220, 360, 20, 200);
+ellipse (263, 375, 20, 170);
+ellipse (253, 360, 20, 200);
+ellipse (248, 357, 20, 200);
+ellipse (243, 360, 20, 195);
+ellipse (238, 370, 20, 170);
+
+strokeWeight(2)
+
 }
